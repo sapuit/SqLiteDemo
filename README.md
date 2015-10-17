@@ -1,0 +1,4 @@
+Nguồn tham khảo :
+https://duythanhcse.wordpress.com/2013/06/12/bai-tap-31-cach-su-dung-sqlite-trong-android/ 
+https://duythanhcse.wordpress.com/2013/06/14/bai-tap-32-tiep-tuc-cung-co-kien-thuc-sqlite-vi-du-tong-hop-quan-ly-sach/ 
+http://www.codeproject.com/Articles/783073/A-Simple-Android-SQLite-Example
